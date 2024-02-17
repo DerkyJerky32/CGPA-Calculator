@@ -1,3 +1,9 @@
+/*
+Name: DERRICK DEMERS
+Date: 2/17/2024
+CGPA Calculator - The purpose of this program is to calculate the grade point average for a user on a 4.0 scale
+		When given the toal grade points accumulated and from grades earned in total.
+*/
 #include <iostream>
 #include <iomanip>
 using namespace std;
